@@ -1,0 +1,15 @@
+# Ignore virtual environment folders
+.venv/
+__pycache__/
+
+# Ignore environment files (sensitive data)
+.env
+
+# Ignore node modules (for backend or frontend dependencies)
+node_modules/
+
+# Ignore package lock files (optional, you can keep this if you want reproducible builds)
+package-lock.json
+
+# Ignore compiled Python files
+*.pyc
